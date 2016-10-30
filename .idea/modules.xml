@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.placeholder.iml" filepath="$PROJECT_DIR$/.idea/modules/net.placeholder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.placeholder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/net.placeholder_main.iml" group="net.placeholder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/net.placeholder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/net.placeholder_test.iml" group="net.placeholder" />
+    </modules>
+  </component>
+</project>
