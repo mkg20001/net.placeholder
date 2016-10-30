@@ -50,3 +50,9 @@ test {
         logger.lifecycle("Test: " + descriptor + " produced standard out/err: " + event.message )
     }
 }
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'net.placeholder.Main'
+    }
+}

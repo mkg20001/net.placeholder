@@ -1,6 +1,4 @@
-package net.placeholder; /**
- * Created by maciej on 30.10.16.
- */
+package net.placeholder;
 import org.junit.Test;
 
 public class tests {
